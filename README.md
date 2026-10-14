@@ -61,7 +61,7 @@ proyecto-integrador-b2-2026/
 
 ## Modelo de Datos
 
-
+(MER: ![img](diagrama_mer.png)).
 
 | Entidad | Descripción | Atributos |
 |---------|-------------|-----------|
